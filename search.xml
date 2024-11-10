@@ -12,6 +12,9 @@
 <p>Q：作者是谁？<br>A：学生，阴暗逼，INFP，三分钟热度。站点侧栏有Email。</p>
 <p>最早是在2020年初，疫情居家时期闲着没事干，偶然在b站看到<em>Hexo+Github</em>搭建博客的有关视频，就开始自己捣鼓，花了很多时间终于搭好后发现国内基本无法访问（Github被墙了），于是买了个小鸟云的服务器，搭配域名花了不少钱，然后一篇文章没写就开学了，于是就荒废了。<br>为什么现在又重新搭了一个？因为<strong>实在是没什么事，天天上水课天天逃课。</strong></p>
 ]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
       <tags>
         <tag>废话</tag>
       </tags>
@@ -22,5 +25,8 @@
     <content><![CDATA[<p>网站由腾讯云进行静态托管，正在进行ICP备案。</p>
 <p><strong>大家放心浏览</strong></p>
 ]]></content>
+      <categories>
+        <category>公告</category>
+      </categories>
   </entry>
 </search>
