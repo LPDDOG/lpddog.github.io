@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Q&amp;A&amp;一些废话</title>
+    <url>/2024/11/09/Q&amp;A&amp;%E4%B8%80%E4%BA%9B%E5%BA%9F%E8%AF%9D/</url>
+    <content><![CDATA[<p>Q：这是什么地方？</p>
+<span id="more"></span>
+<p>A：参考<a href="https://lpddog-6ganae98cb72a33f-1253970101.tcloudbaseapp.com/about/">关于网站</a>页面</p>
+<p>Q：网站是如何搭建的？<br>A：前几年很流行的<em>Github pages+Hexo</em>搭建，为了绑定自己的域名并且加快国内访问速度，我使用了腾讯云的静态网站托管服务（每月15rmb）。在CSDN、知乎、哔哩哔哩等网站搜索<strong>Hexo</strong>就会有很多教程，不多赘述。</p>
+<p>Q：为什么不直接在微信公众号之类的公众平台发文章？<br>A：因为搭建自己的网站个性化程度更高点吧，而且只要<strong>合法</strong>发啥都行不用审核……另外就是没有做自媒体之类的想法，建这个站单纯就是兴趣爱好。</p>
+<p>Q：文章评论功能为什么用不了？<br>A：评论系统是Waline，通过Vercel部署的，在国内由于DNS污染，必须挂VPN才能正常使用，目前没法解决，需要等lpddog.cn这个域名通过备案，才能想办法解决。</p>
+<p>Q：作者是谁？<br>A：学生，阴暗逼，INFP，三分钟热度。站点侧栏有Email。</p>
+<p>最早是在2020年初，疫情居家时期闲着没事干，偶然在b站看到<em>Hexo+Github</em>搭建博客的有关视频，就开始自己捣鼓，花了很多时间终于搭好后发现国内基本无法访问（Github被墙了），于是买了个小鸟云的服务器，搭配域名花了不少钱，然后一篇文章没写就开学了，于是就荒废了。<br>为什么现在又重新搭了一个？因为<strong>实在是没什么事，天天上水课天天逃课。</strong></p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>废话</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【书籍推荐】王凡西《毛泽东思想论稿》</title>
     <url>/2024/11/10/%E4%B9%A6%E6%8E%A81/</url>
     <content><![CDATA[<p><strong>本书电子版可在Zlibrary官方网站和<a href="https://www.marxists.org/chinese/wangfanxi/1964book/wang-1964bookindex.htm">中文马克思主义文库</a>中找到。</strong></p>
@@ -33,33 +52,12 @@
       </categories>
   </entry>
   <entry>
-    <title>Q&amp;A&amp;一些废话</title>
-    <url>/2024/11/09/Q&amp;A&amp;%E4%B8%80%E4%BA%9B%E5%BA%9F%E8%AF%9D/</url>
-    <content><![CDATA[<p>Q：这是什么地方？</p>
-<span id="more"></span>
-<p>A：参考<a href="https://lpddog-6ganae98cb72a33f-1253970101.tcloudbaseapp.com/about/">关于网站</a>页面</p>
-<p>Q：网站是如何搭建的？<br>A：前几年很流行的<em>Github pages+Hexo</em>搭建，为了绑定自己的域名并且加快国内访问速度，我使用了腾讯云的静态网站托管服务（每月15rmb）。在CSDN、知乎、哔哩哔哩等网站搜索<strong>Hexo</strong>就会有很多教程，不多赘述。</p>
-<p>Q：为什么不直接在微信公众号之类的公众平台发文章？<br>A：因为搭建自己的网站个性化程度更高点吧，而且只要<strong>合法</strong>发啥都行不用审核……另外就是没有做自媒体之类的想法，建这个站单纯就是兴趣爱好。</p>
-<p>Q：文章评论功能为什么用不了？<br>A：评论系统是Waline，通过Vercel部署的，在国内由于DNS污染，必须挂VPN才能正常使用，目前没法解决，需要等lpddog.cn这个域名通过备案，才能想办法解决。</p>
-<p>Q：作者是谁？<br>A：学生，阴暗逼，INFP，三分钟热度。站点侧栏有Email。</p>
-<p>最早是在2020年初，疫情居家时期闲着没事干，偶然在b站看到<em>Hexo+Github</em>搭建博客的有关视频，就开始自己捣鼓，花了很多时间终于搭好后发现国内基本无法访问（Github被墙了），于是买了个小鸟云的服务器，搭配域名花了不少钱，然后一篇文章没写就开学了，于是就荒废了。<br>为什么现在又重新搭了一个？因为<strong>实在是没什么事，天天上水课天天逃课。</strong></p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>废话</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>大学躺平生存指南1.0</title>
     <url>/2024/11/11/%E5%A4%A7%E5%AD%A6%E6%91%86%E7%83%82%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97/</url>
     <content><![CDATA[<p>阅前提示：本文章很多部分可能不适用于想要在大学期间评奖评优、入党、保研的同学，但我仍然推荐阅读。</p>
 <span id="more"></span>
-<h1 id="考勤"><a href="#考勤" class="headerlink" title="考勤"></a>考勤</h1><p>进入大学后你会发现有非常多的<strong>水课</strong>，思政、心理、军事理论、近现代史纲要、形势与政策等等。很多同学选择消极抵抗，比如上课打游戏，不过诸多因素的存在使得游戏一般是打不安稳的，根据我自己身边统计学，在宿舍打游戏的胜率应该要更高，而且宿舍还可以插电用游戏本。就算你不打游戏，在自习室&amp;图书馆&amp;宿舍学习的效率，应该也要远高于在水课课堂上，既要缩手缩脚地挤在自己座位，又要提心吊胆防止哪门水课老师心血来潮提问，同时还得<strong>防着身边同学视奸自己</strong>的时候。</p>
-<p>结合本章大标题，根治这种问题的最好方法就是——<strong>不去</strong>，学名旷课。很多同学刚开始翘课很担忧，万一提问点到我了怎么办？学委点名点到我了怎么办？我被扣了考勤分怎么办？这个时候需要三省吾身：<strong>想保研吗？想入党吗？想评奖评优吗？</strong> 如果三者皆为否，那么你就不用担心了，这时候你就处于无法选中状态。不用担心自己会不会毕不了业，不会的，你毕不了业学校只会比你更急。当然了，也有大学期间啥也不学门门挂科最后被退学的例子，但一来是少数，二来考勤分占比不高，所以只要你从游戏时间略微抽出一些来应试，是不会有这样的后果的。毕竟是躺平，不等于死亡，偶尔还是得拉伸一下。</p>
-<h1 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h1><p>形势与政策论文、近现代史纲要调研报告、思政小组作业……诸如此类的作业，动辄几千字，而且貌似都是水课，对你的学业几乎没有任何用处，但你就是要交，怎么办？</p>
-<p>我强烈推荐大家学会使用ChatGpt4o，</p>
+
+
 ]]></content>
       <categories>
         <category>教程</category>
