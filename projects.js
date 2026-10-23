@@ -17,8 +17,8 @@ window.portfolioProjects = [
     source: 'https://github.com/LPDDOG/TradeGuard'
   },
   {
-    title: '个人博客',
-    description: '记录日常、想法，以及折腾网站的过程。',
+    title: 'MyBlog｜个人博客',
+    description: '使用 Hexo + GitHub Pages 搭建，记录日常、想法，以及折腾网站的过程。',
     note: '本项目全程未使用生成式 AI',
     url: 'https://lpddog.github.io/myblog/',
     image: 'assets/blog-preview.jpg',
