@@ -19,6 +19,7 @@ window.portfolioProjects = [
   {
     title: '个人博客',
     description: '记录日常、想法，以及折腾网站的过程。',
+    note: '本项目全程未使用生成式 AI',
     url: 'https://lpddog.github.io/myblog/',
     image: 'assets/blog-preview.jpg',
     imageAlt: '个人博客真实截图，包含博客名称、文章列表和侧栏',

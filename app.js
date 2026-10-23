@@ -27,6 +27,14 @@ for (const project of window.portfolioProjects) {
   const description = document.createElement('p');
   description.textContent = project.description;
   article.append(heading, description);
+  if (project.note) {
+    const note = document.createElement('small');
+    note.className = 'project-note';
+    const emphasis = document.createElement('strong');
+    emphasis.textContent = project.note;
+    note.append(emphasis);
+    article.append(note);
+  }
   if (project.placeholder) {
     const pending = document.createElement('span');
     pending.className = 'pending';
